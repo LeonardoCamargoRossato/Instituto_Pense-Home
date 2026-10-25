@@ -22,6 +22,10 @@ The repository currently functions primarily as documentation/concept material r
 
 **Tier C — Historical / Concept Repository.** Preserved as part of the evolution of educational and deep-tech initiatives, without positioning it as a current production platform.
 
+## Portfolio
+
+**Personal Technical Portfolio:** https://leonardocamargorossato.github.io/LCR-SolutionsArchitecture-IA-Quantum/#/
+
 ---
 
 **Leonardo Camargo Rossato** · Developer & Solution Architect
