@@ -22,9 +22,11 @@ The repository currently functions primarily as documentation/concept material r
 
 **Tier C — Historical / Concept Repository.** Preserved as part of the evolution of educational and deep-tech initiatives, without positioning it as a current production platform.
 
-## Portfolio
+## Related Portfolios
 
 **Personal Technical Portfolio:** https://leonardocamargorossato.github.io/LCR-SolutionsArchitecture-IA-Quantum/#/
+
+**Cities Comparing Research Platform:** https://leonardocamargorossato.github.io/CitiesComparing_ResearchPlatform/
 
 ---
 
